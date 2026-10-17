@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c67f6d-f3d8-468d-80e9-523a96a94ac2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task1.java" afterDir="false" />
+    <list default="true" id="19c67f6d-f3d8-468d-80e9-523a96a94ac2" name="Changes" comment="Set a breakpoint">
+      <change afterPath="$PROJECT_DIR$/todo internal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,15 +91,8 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Task1.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set a breakpoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set a breakpoint" />
   </component>
 </project>
