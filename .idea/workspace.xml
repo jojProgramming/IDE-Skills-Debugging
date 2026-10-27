@@ -65,6 +65,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="IDE-Skills-Debugging" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task2" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
