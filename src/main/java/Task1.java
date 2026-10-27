@@ -18,4 +18,7 @@ public class Task1 {
             }
         }
     }
+    
+    //todo What does this program do?
+    // What are the values of the array at the end of each iteration?
 }
